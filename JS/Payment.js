@@ -1,3 +1,11 @@
-function Payment(){
-    this.id;
+// Prototypes
+// function Payment(){
+//     this.id;
+// }
+
+// ES6
+class Payment {
+    constructor(){
+        this.id;
+    }
 }
